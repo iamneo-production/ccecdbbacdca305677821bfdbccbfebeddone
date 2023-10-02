@@ -1,0 +1,18 @@
+.Container{
+    width: 300px;
+}
+label {
+    display: block;
+    margin-bottom :5px;
+}
+input {
+    width: 300px;
+    padding:5px;
+    margin-bottom:10px;
+}
+button.button{
+    padding:10px 20px;
+    background-color: #4CAF50;
+    border:none;
+    cursor:
+}
