@@ -14,5 +14,8 @@ button.button{
     padding:10px 20px;
     background-color: #4CAF50;
     border:none;
-    cursor:
+    cursor:pointer;
+}
+button.button:hover {
+    background-color: #45a049;
 }
